@@ -1,0 +1,7 @@
+{
+  "[python]": {
+    "workbench.editor.languageDetection": true
+  },
+  "vsintellicode.features.python.deepLearning": "enabled",
+  "python.analysis.autoImportCompletions": true
+}
