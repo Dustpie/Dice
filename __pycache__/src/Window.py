@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import N, E, S, W, Tk, StringVar
 from tkinter import ttk
 from Roll import *
 
